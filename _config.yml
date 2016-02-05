@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06553591385928348
+  lightness: 0.43946230643086626
+  rhythmicContrast: 0.8568752352720931
+  saturation: 0.6912923474120991
+cta: {}
+layout_spectrum: 0.7996618379050449
+name: BitsOfMe
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.2200965200841115
